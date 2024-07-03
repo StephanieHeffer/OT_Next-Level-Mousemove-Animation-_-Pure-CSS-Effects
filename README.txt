@@ -1,7 +1,4 @@
 https://www.youtube.com/watch?v=FY_gvvZtMSM&ab_channel=OnlineTutorials
-
-Este código cria um efeito visual em que, ao passar o mouse sobre um elemento `<span>` dentro de um contêiner `.container`, é exibida uma expansão circular com sombras em torno do elemento. Vamos analisar linha por linha:
-
 ### CSS:
 
 1. `.container`: Define as propriedades do contêiner.
